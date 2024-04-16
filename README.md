@@ -6,6 +6,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - .
+# delata-demo
+This is a Demo for Git &amp; Github class.
+
+# Teacher 
+Shradha Khapra
+
+# Student
+Lovish Jindal
+
+
 
 <!---
 Lovishjindal07/Lovishjindal07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
